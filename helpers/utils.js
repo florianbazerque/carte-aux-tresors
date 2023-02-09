@@ -1,0 +1,1 @@
+export const inputRegex = /[CMTA]\s*-\s*[a-zA-Z0-9]+\s*-\s*[0-9]+\s*(-\s*[0-9]+\s*(-\s*[NESO]\s*-\s*[ADG]+\s*)*)*/g;
